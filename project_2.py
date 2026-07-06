@@ -24,4 +24,14 @@ print(classification_report(y_test,predictions))
 print(iris.target_names)
 print(iris.data.shape)
 print(iris.data[0])
-print(iris.target[0])"""
+print(iris.target[0])
+print(iris.DESCR)
+print(iris.data[0].shape)
+system.out.printl(x)
+int y:
+y=20;
+declaration
+initialization
+public static void main(String[]args)
+public class variablesabasic
+"""
